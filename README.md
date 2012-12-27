@@ -3,4 +3,4 @@ blog
 
 My Github Blog
 
-github.itomg.com
+http://github.itomg.com
