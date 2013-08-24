@@ -28,7 +28,7 @@ watch:       false    # deprecated
 server:      false    # deprecated
 host:        0.0.0.0
 port:        4000
-baseurl:     http://github.itomg.com/
+baseurl:     http://github.itomg.com
 url:         http://localhost:4000
 lsi:         false
 
