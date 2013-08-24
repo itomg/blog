@@ -14,7 +14,7 @@ pygments:    true
 
 relative_permalinks: true
 
-permalink:     year    #date
+permalink:     date
 paginate_path: 'page:num'
 
 markdown:      maruku
